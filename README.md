@@ -31,6 +31,10 @@ npm run dev
 
   **Dokumentasi:**
 ![image alt](https://github.com/sweetdoodles/prognet-c/blob/0b8fd03ec724fe417d7751262902d06cfa629a02/Screenshot%202026-08-26%20191016.png)
+![image alt](https://github.com/sweetdoodles/prognet-c/blob/1b063debb1c4a4e755834dd2afa329d391a06e3d/Screenshot%202026-08-26%20191027.png)
+![image alt]()
+![image alt]()
+![image alt]()
 
 Setelah `npm run dev` dijalankan, aplikasi dapat diakses di `http://localhost:5173`. Seluruh tampilan Student Hub ditulis dalam satu file `src/App.jsx` (Single-File Component), tanpa membuat file atau folder tambahan di luar file tersebut.
 
