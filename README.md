@@ -462,7 +462,7 @@ Meskipun kode ini dihasilkan dengan bantuan AI, struktur `return JSX` tetap disu
 - Hero Profile (Bio + Target Profil Lulusan)
 ![image alt](https://github.com/sweetdoodles/prognet-c/blob/368c5a584a7e4ce3c7fd7de699c479514e4c5630/Hero%20Profile.png)
 - Interactive Counter dengan `useState`
- ![image alt]()
+ ![image alt](https://github.com/sweetdoodles/prognet-c/blob/dca6f46eca6c20f88a1c87035468514f62c2b4d9/Interactive%20Counter.png)
 - Showcase 3 Card Project (Balinese Culture Digital Archive, Smart Waste Management, AI Academic Assistant)
 ![image alt](https://github.com/sweetdoodles/prognet-c/blob/99ddca04735e72551696b3e1ff2f5213f8ae9078/Showcase%203%20Card%20Project.png)
 - Single-File Component
