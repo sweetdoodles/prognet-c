@@ -32,7 +32,7 @@ npm run dev
   **Dokumentasi:**
 ![image alt](https://github.com/sweetdoodles/prognet-c/blob/0b8fd03ec724fe417d7751262902d06cfa629a02/Screenshot%202026-08-26%20191016.png)
 ![image alt](https://github.com/sweetdoodles/prognet-c/blob/1b063debb1c4a4e755834dd2afa329d391a06e3d/Screenshot%202026-08-26%20191027.png)
-![image alt]()
+![image alt](https://github.com/sweetdoodles/prognet-c/blob/3d4c6f71ddab7b4acc667aaac52cc17976f90035/Screenshot%202026-08-26%20191154.png)
 ![image alt]()
 ![image alt]()
 
