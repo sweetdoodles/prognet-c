@@ -460,7 +460,7 @@ Meskipun kode ini dihasilkan dengan bantuan AI, struktur `return JSX` tetap disu
 - Header & Navbar semantik (Nama, NIM, Bidang Minat)
 ![image alt](https://github.com/sweetdoodles/prognet-c/blob/1a58f5dda1798982afde9e8f4607b5dd216fe6fa/Student%20Hub%20Preview.png)
 - Hero Profile (Bio + Target Profil Lulusan)
-![image alt]()
+![image alt](https://github.com/sweetdoodles/prognet-c/blob/368c5a584a7e4ce3c7fd7de699c479514e4c5630/Hero%20Profile.png)
 - Interactive Counter dengan `useState`
  ![image alt]()
 - Showcase 3 Card Project (Balinese Culture Digital Archive, Smart Waste Management, AI Academic Assistant)
