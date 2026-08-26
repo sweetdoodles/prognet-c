@@ -466,4 +466,4 @@ Meskipun kode ini dihasilkan dengan bantuan AI, struktur `return JSX` tetap disu
 - Showcase 3 Card Project (Balinese Culture Digital Archive, Smart Waste Management, AI Academic Assistant)
 ![image alt](https://github.com/sweetdoodles/prognet-c/blob/99ddca04735e72551696b3e1ff2f5213f8ae9078/Showcase%203%20Card%20Project.png)
 - Single-File Component
-![image alt]()
+![image alt](https://github.com/sweetdoodles/prognet-c/blob/9ccfcdfd922b5f5f4e5034a0b527a91451abd117/Single-File%20Component.png)
