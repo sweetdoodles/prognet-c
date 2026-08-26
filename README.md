@@ -1,9 +1,8 @@
 # Laporan Take-Home Assignment — Student Hub & Code Defense
-**Pemrograman Internet (26STIE05X020) — Pertemuan 2**
 
 **Nama :** Ida Ayu Putu Audrey Tara Cahyarani
 **NIM :** 2505551128
-**Program Studi :** Teknologi Informasi, Universitas Udayana
+**Program Studi :** Teknologi Informasi, Fakultas Teknik, Universitas Udayana
 **Bidang Minat (Kurikulum 2026) :** Artificial Intelligence
 
 ---
@@ -137,7 +136,8 @@ Meskipun kode ini dihasilkan dengan bantuan AI, struktur `return JSX` tetap disu
 
 ## Lampiran: Fitur Web yang Diimplementasikan
 
-- ✅ Header & Navbar semantik (Nama, NIM, Bidang Minat)
+- Header & Navbar semantik (Nama, NIM, Bidang Minat)
+![image alt](https://github.com/sweetdoodles/prognet-c/blob/1a58f5dda1798982afde9e8f4607b5dd216fe6fa/Student%20Hub%20Preview.png)
 - ✅ Hero Profile (Bio + Target Profil Lulusan PL-01)
 - ✅ Interactive Counter dengan `useState` (Stat Card "Project Selesai")
 - ✅ Showcase 3 Card Project (Balinese Culture Digital Archive, Smart Waste Management, AI Academic Assistant)
