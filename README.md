@@ -7,9 +7,9 @@
 
 ---
 
-## 1. Langkah-Langkah (Step-by-Step)
+## 1. Langkah-Langkah
 
-Berikut runtutan perintah terminal dari awal setup proyek hingga menjalankan `npm run dev`:
+Berikut urutan perintah terminal dari awal setup proyek hingga menjalankan `npm run dev`:
 
 ```bash
 # 1. Membuat proyek Vite + React baru
@@ -33,7 +33,7 @@ npm run dev
 ![image alt](https://github.com/sweetdoodles/prognet-c/blob/0b8fd03ec724fe417d7751262902d06cfa629a02/Screenshot%202026-08-26%20191016.png)
 ![image alt](https://github.com/sweetdoodles/prognet-c/blob/1b063debb1c4a4e755834dd2afa329d391a06e3d/Screenshot%202026-08-26%20191027.png)
 ![image alt](https://github.com/sweetdoodles/prognet-c/blob/3d4c6f71ddab7b4acc667aaac52cc17976f90035/Screenshot%202026-08-26%20191154.png)
-![image alt]()
+![image alt](https://github.com/sweetdoodles/prognet-c/blob/63a6ed3e9a8bba6f4e9104a0d9f33169ccf2f499/Screenshot%202026-08-26%20191159.png)
 ![image alt]()
 
 Setelah `npm run dev` dijalankan, aplikasi dapat diakses di `http://localhost:5173`. Seluruh tampilan Student Hub ditulis dalam satu file `src/App.jsx` (Single-File Component), tanpa membuat file atau folder tambahan di luar file tersebut.
