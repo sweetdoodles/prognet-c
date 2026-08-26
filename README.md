@@ -29,23 +29,8 @@ npm install lucide-react
 npm run dev
 ```
 
-**Konfigurasi tambahan yang dilakukan:**
-
-`vite.config.js`
-```js
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
-
-export default defineConfig({
-  plugins: [react(), tailwindcss()],
-})
-```
-
-`src/index.css`
-```css
-@import "tailwindcss";
-```
+  **Dokumentasi:**
+![image alt](https://github.com/sweetdoodles/prognet-c/blob/0b8fd03ec724fe417d7751262902d06cfa629a02/Screenshot%202026-08-26%20191016.png)
 
 Setelah `npm run dev` dijalankan, aplikasi dapat diakses di `http://localhost:5173`. Seluruh tampilan Student Hub ditulis dalam satu file `src/App.jsx` (Single-File Component), tanpa membuat file atau folder tambahan di luar file tersebut.
 
